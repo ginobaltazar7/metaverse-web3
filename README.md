@@ -1,2 +1,3 @@
 # hello-world
-First repository
+# First repository
+# Pretty soon we will be filling these with ideas!
