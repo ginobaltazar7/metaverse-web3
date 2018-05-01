@@ -1,3 +1,3 @@
 # Exercises 
 
-Python fun exercises via Dataquest learnings https://www.dataquest.io/
+Python fun exercises - credit to awesome Dataquest team https://www.dataquest.io/
