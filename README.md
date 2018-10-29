@@ -2,9 +2,9 @@
 
 Python fun journey exercises - credit to my awesome mentor teams: 
 
-- Vik Paruchuri and Dataquest https://www.dataquest.io/ https://github.com/vikparuchuri/ https://github.com/dataquestio https://github.com/CurtisHumphrey
+- Dataquest team https://www.dataquest.io/ https://github.com/vikparuchuri/ https://github.com/dataquestio https://github.com/CurtisHumphrey
 
-- Francesco Mosconi and Catalit https://www.catalit.com https://github.com/ghego https://github.com/Dataweekends
+- Catalit team https://www.catalit.com https://github.com/ghego https://github.com/Dataweekends
 
 ~o~
 COPYRIGHT
