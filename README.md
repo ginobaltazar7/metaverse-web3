@@ -22,6 +22,12 @@
 
 - Deep Learning Recommender, Survey and Perspectives, by Zhang, Yao, et al https://arxiv.org/pdf/1707.07435.pdf
 
+### Data Sets
+
+- /r/datasets - A subreddit for sharing datasets.https://www.reddit.com/r/datasets/
+
+- Institute for Reproducible Research. http://academictorrents.com/browse.php?cat=6 
+
 
 ### Copyright Notice
 
