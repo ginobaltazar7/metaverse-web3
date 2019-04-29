@@ -16,6 +16,12 @@
 
 - Uber Engineering Combats Fraud, Builds 'Mastermind', using Python's Abstract Syntax Tree by Yifu Dao and Isabel Geracioti https://eng.uber.com/mastermind/  
 
+- Improving Machine Learning Model Performance by Andrew Ng, https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b
+
+- The Hundred-Page Machine Learning Book by Andriy Burkov, https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X
+
+- Deep Learning Recommender, Survey and Perspectives, by Zhang, Yao, et al https://arxiv.org/pdf/1707.07435.pdf
+
 
 ### Copyright Notice
 
