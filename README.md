@@ -1,12 +1,12 @@
 # Data Science, Deep Learning Exercises and Links 
 
-## Credit to my kind mentors: 
+### Credit to my kind mentors: 
 
 - Dataquest team https://www.dataquest.io/ https://github.com/vikparuchuri/ https://github.com/dataquestio https://github.com/CurtisHumphrey
 
 - Catalit team https://www.catalit.com https://github.com/ghego https://github.com/Dataweekends
 
-## Useful Reads to Share
+### Useful Reads to Share
 
 - From Python to Numpy by Inria researcher Nicolas P. Rougier https://www.labri.fr/perso/nrougier/from-python-to-numpy/#id7
 
@@ -15,6 +15,7 @@
 - Combinatorial Optimization in Python by Google Developers https://developers.google.com/optimization/introduction/python
 
 - Uber Engineering Combats Fraud using Python's Abstract Syntax Tree by Yifu Dao and Isabel Geracioti https://eng.uber.com/mastermind/
+
 
 
 COPYRIGHT
