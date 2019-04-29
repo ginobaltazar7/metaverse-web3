@@ -1,15 +1,20 @@
 # Data Science, Deep Learning Exercises and Links 
 
-Python fun journey exercises - credit to my kind mentors: 
+## Credit to my kind mentors: 
 
 - Dataquest team https://www.dataquest.io/ https://github.com/vikparuchuri/ https://github.com/dataquestio https://github.com/CurtisHumphrey
 
 - Catalit team https://www.catalit.com https://github.com/ghego https://github.com/Dataweekends
 
-Useful Links
+## Useful Reads to Share
 
 - From Python to Numpy by Inria researcher Nicolas P. Rougier https://www.labri.fr/perso/nrougier/from-python-to-numpy/#id7
 
+- Vectorize your Conditional Loops in Python by Tirthajyokti Sarkar https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e
+
+- Combinatorial Optimization in Python by Google Developers https://developers.google.com/optimization/introduction/python
+
+- Uber Engineering Combats Fraud using Python's Abstract Syntax Tree by Yifu Dao and Isabel Geracioti https://eng.uber.com/mastermind/
 
 
 COPYRIGHT
