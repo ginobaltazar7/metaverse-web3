@@ -1,4 +1,4 @@
-# DS + DL Exercises 
+# Data Science, Deep Learning Exercises and Links 
 
 Python fun journey exercises - credit to my awesome mentor teams: 
 
@@ -6,7 +6,12 @@ Python fun journey exercises - credit to my awesome mentor teams:
 
 - Catalit team https://www.catalit.com https://github.com/ghego https://github.com/Dataweekends
 
-~o~
+Useful Links
+
+- From Python to Numpy by Inria researcher Nicolas P. Rougier https://www.labri.fr/perso/nrougier/from-python-to-numpy/#id7
+
+
+
 COPYRIGHT
 
 All contributions by Gino Baltazar.
