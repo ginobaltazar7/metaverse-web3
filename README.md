@@ -1,6 +1,6 @@
 # Data Science, Deep Learning Exercises and Links 
 
-Python fun journey exercises - credit to my awesome mentor teams: 
+Python fun journey exercises - credit to my kind mentors: 
 
 - Dataquest team https://www.dataquest.io/ https://github.com/vikparuchuri/ https://github.com/dataquestio https://github.com/CurtisHumphrey
 
