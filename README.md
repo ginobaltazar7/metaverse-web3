@@ -20,6 +20,8 @@
 
 - The Hundred-Page Machine Learning Book by Andriy Burkov, https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X
 
+- Data Scientist Toolkit by Andriy Burkov, https://www.linkedin.com/pulse/data-scientists-toolkit-andriy-burkov?trk=d_public_post_promoted_post
+
 - Deep Learning Recommender, Survey and Perspectives, by Zhang, Yao, et al https://arxiv.org/pdf/1707.07435.pdf
 
 ### Data Sets
