@@ -14,25 +14,25 @@
 
 - Combinatorial Optimization in Python by Google Developers https://developers.google.com/optimization/introduction/python
 
-- Uber Engineering Combats Fraud using Python's Abstract Syntax Tree by Yifu Dao and Isabel Geracioti https://eng.uber.com/mastermind/
+- Uber Engineering Combats Fraud, Builds 'Mastermind', using Python's Abstract Syntax Tree by Yifu Dao and Isabel Geracioti https://eng.uber.com/mastermind/  
 
 
-
-COPYRIGHT
+### Copyright Notice
 
 All contributions by Gino Baltazar.
-Copyright (c) 2018, Gino Baltazar.
+Copyright (c) 2019, Gino Baltazar.
 All rights reserved.
 
 All other contributions.
-Copyright (c) 2018, the respective contributors.
+Copyright (c) 2019, the respective contributors.
 All rights reserved.
 
 Each contributor holds copyright over their respective contributions.
 The project versioning (Git) records all such contribution source information.
+
 MIT License
 
-Copyright (c) 2018 + Disclaimer
+Copyright (c) 2019 + Disclaimer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
