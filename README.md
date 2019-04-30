@@ -1,4 +1,4 @@
-# Data Science, Deep Learning Exercises and Links 
+# Data Science, Deep Learning, Databases - Exercises and Links 
 
 ### Credit
 
@@ -31,6 +31,10 @@
 - Institute for Reproducible Research. http://academictorrents.com/browse.php?cat=6 
 
 - Travel related Amadeus https://developers.amadeus.com/quick-start-guide/category?id=97&durl=335&parentId=NaN and other travel APIs via Altexsoft https://www.altexsoft.com/blog/engineering/travel-and-booking-apis-for-online-travel-and-tourism-service-providers/
+
+### Databases
+
+- Non-native vs Native Graph Technology https://neo4j.com/blog/native-vs-non-native-graph-technology/
 
 ### Copyright Notice
 
