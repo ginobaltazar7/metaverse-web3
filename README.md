@@ -1,6 +1,6 @@
 # Data Science, Deep Learning Exercises and Links 
 
-### Credit to my kind mentors: 
+### Credit
 
 - Dataquest team https://www.dataquest.io/ https://github.com/vikparuchuri/ https://github.com/dataquestio https://github.com/CurtisHumphrey
 
