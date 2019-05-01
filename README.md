@@ -24,6 +24,8 @@
 
 - Deep Learning Recommender, Survey and Perspectives, by Zhang, Yao, et al https://arxiv.org/pdf/1707.07435.pdf
 
+- Develop a NLP Model in Python & Deploy It with Flask, by Susan Li, https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776
+
 ### Data Sets
 
 - /r/datasets - A subreddit for sharing datasets.https://www.reddit.com/r/datasets/
