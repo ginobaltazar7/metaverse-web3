@@ -1,13 +1,9 @@
 # Data Science, Deep Learning, Databases
 ## Links, Code and Exercises
 
-### Credit
-
-- Dataquest team https://www.dataquest.io/ https://github.com/vikparuchuri/ https://github.com/dataquestio https://github.com/CurtisHumphrey
-
-- Catalit team https://www.catalit.com https://github.com/ghego https://github.com/Dataweekends
-
 ### Useful Reads to Share
+
+- Gallery of interesting Jupyter Notebooks by Lorena Barba https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
 - From Python to Numpy by Inria researcher Nicolas P. Rougier https://www.labri.fr/perso/nrougier/from-python-to-numpy/#id7
 
@@ -41,9 +37,9 @@
 
 - Non-native vs Native Graph Technology https://neo4j.com/blog/native-vs-non-native-graph-technology/
 
-### Copyright Notice
+### Copyright 
 
-All contributions by Gino Baltazar.
+Gino Baltazar.
 Copyright (c) 2019, Gino Baltazar.
 All rights reserved.
 
@@ -54,7 +50,14 @@ All rights reserved.
 Each contributor holds copyright over their respective contributions.
 The project versioning (Git) records all such contribution source information.
 
+### Credit
+
+- Dataquest team https://www.dataquest.io/ https://github.com/vikparuchuri/ https://github.com/dataquestio https://github.com/CurtisHumphrey
+
+- Catalit team https://www.catalit.com https://github.com/ghego https://github.com/Dataweekends
 MIT License
+
+### Disclaimer
 
 Copyright (c) 2019 + Disclaimer
 
