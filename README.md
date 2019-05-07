@@ -1,6 +1,16 @@
 # Data Science, Deep Learning, Databases
 ## Links, Code and Exercises
 
+### Short Demos
+
+- NLP demo of manual encoding and article popularity prediction using Linear Regression of article upvotes in YCombinator News. https://github.com/ginobaltazar7/DS/tree/master/Exercises/Misc/Natural%20Language%20Processing%20-%20ML.ipynb
+
+- Demo of data aggregation using pandas, data summarizing using numpy, data visualization of correlations using matplotlib of New York City high school SAT standardized test data and analysis of which factors influence high SAT scores. https://github.com/ginobaltazar7/DS/tree/master/Exercises/NYC_High_Schools/Schools.ipynb
+
+- Demo of cross-validation, while comparing KNeighbors regressor and mean_squared_error learning algorithms of AirBNB data. https://github.com/ginobaltazar7/DS/tree/master/Exercises/MLCrossValidation/CrossValidation.ipynb
+
+- Demo studing regression using Tensorflow library while comparing it to the scikit's implementation, predicting human weight given human height. https://github.com/ginobaltazar7/DS/tree/master/Exercises/DL/TFRegression/TF%20Regression.ipynb
+
 ### Useful Reads to Share
 
 - Gallery of interesting Jupyter Notebooks by Lorena Barba https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
