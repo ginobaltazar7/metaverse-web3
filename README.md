@@ -3,7 +3,7 @@
 
 ### Short Demos
 
-- NLP demo of manual encoding and article popularity prediction using Linear Regression of article upvotes in YCombinator News. https://github.com/ginobaltazar7/DS/tree/master/Exercises/Misc/Natural%20Language%20Processing%20-%20ML.ipynb
+- [NLP demo of manual encoding and article popularity prediction using Linear Regression of article upvotes in YCombinator News.] (https://github.com/ginobaltazar7/DS/tree/master/Exercises/Misc/Natural%20Language%20Processing%20-%20ML.ipynb)
 
 - Demo of data aggregation using pandas, data summarizing using numpy, data visualization using matplotlib of New York City high school SAT standardized scores and contributions, if any, by factors such as class sizes, demographic, etc. https://github.com/ginobaltazar7/DS/tree/master/Exercises/NYC_High_Schools/Schools.ipynb
 
