@@ -35,6 +35,8 @@
 
 - Kubeflow at LinkedIn by Abin Shahab & Tengfei Mu, LinkedIn. Kubeflow is an open source Kubernetes-native platform for orchestrating and deploying machine learning workloads. https://www.youtube.com/watch?v=kExwqij11cg
 
+- Quantitative Economics using Python, Stachurski, John. https://lectures.quantecon.org/py/
+
 ### Data Sets
 
 - /r/datasets - A subreddit for sharing datasets.https://www.reddit.com/r/datasets/
