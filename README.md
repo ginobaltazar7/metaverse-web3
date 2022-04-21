@@ -1,92 +1,30 @@
-# Data Science, Deep Learning, Databases
-## Links, Code and Exercises
-
-### Short Demos
-
-- NLP demo of manual encoding and article popularity prediction using Linear Regression of article upvotes in YCombinator News. (https://github.com/ginobaltazar7/DS/tree/master/Exercises/Misc/Natural%20Language%20Processing%20-%20ML.ipynb)
-
-- Demo of data aggregation using pandas, data summarizing using numpy, data visualization using matplotlib of New York City high school SAT standardized scores and contributions, if any, by factors such as class sizes, demographic, etc. https://github.com/ginobaltazar7/DS/tree/master/Exercises/NYC_High_Schools/Schools.ipynb
-
-- Demo of cross-validation, while comparing KNeighbors regressor and mean_squared_error learning algorithms of AirBNB data. https://github.com/ginobaltazar7/DS/tree/master/Exercises/MLCrossValidation/CrossValidation.ipynb
-
-- Demo comparing regression using Tensorflow library with scikit's implementation, predicting human weight given human height. https://github.com/ginobaltazar7/DS/tree/master/Exercises/DL/TFRegression/TF%20Regression.ipynb
+# Metaverse and Web3
+Tracking projects and reads around blockchain, metaverse and web3. 
 
 ### Useful Reads to Share
 
-- Gallery of interesting Jupyter Notebooks by Lorena Barba https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+- [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer) - 9 Part series from Matthew Ball 
+- [Matthew Ball – The Future of Media: Movies, the Metaverse, and More](https://www.joincolossus.com/episodes/69430337/ball-the-future-of-media-movies-the-metaverse-and-more?tab=shownotes) - Investor field guide to the Metaverse
+- [The Metaverse by Matthew Ball](https://www.matthewball.vc/all/themetaverse) - What It Is, Where to Find it, Who Will Build It, and Fortnite
+- [A Primer on the Metaverse](https://venturebeat.com/2017/04/09/a-primer-on-the-metaverse-the-next-iteration-of-the-internet/) - Venturebeat article on the next iteration of the Internet
+- [Parts List for the Metaverse](https://www.highfidelity.com/blog/parts-list-for-the-metaverse) - List by Philip Rosedale
+- [The Metaverse Explained](https://loupventures.com/the-metaverse-explained-part-1-an-inside-look/) - Loup Ventures take on the Metaverse in 4 parts
+- [Metaversing](https://metaversing.com/) - Exploring issues related to the Metaverse and design choices and challenges
+- [Makers Guide to the Metaverse](https://singularityhub.com/2015/08/26/a-makers-guide-to-the-metaverse/) - 2015 article on 5 principles to build into the Metaverse
+- [Metaverse Lab](https://hackaday.io/project/5077/logs) - Experiments with VR/AR, Neural Networks, and 3D Internet
+- [PUDDLES to OASIS](https://www.wired.com/story/ready-player-one-vr-metaverse/) - Wired article on connecting disparate virtual worlds
+- [A Multiverse, not the metaverse](https://techcrunch.com/2020/02/25/virtual-worlds-intro/) - 5 Part series on Multiversing by Techcrunch
+- [The library inside Minecraft and our future in the Metaverse](https://www.domusweb.it/en/news/gallery/2020/03/16/the-library-inside-minecraft-and-our-future-in-the-metaverse.html) - The Uncensored Library
+- [Roblox believes user-generated content will bring us the Metaverse](https://venturebeat.com/2020/05/02/roblox-believes-user-generated-content-will-bring-us-the-metaverse/) - Roblox wants players to build the metaverse
+- [Balaji Srinivasan on Building a “Pseudonymous Economy”](https://blog.blockstack.org/balaji-srinivasan-on-building-a-pseudonymous-economy/) - Pseudonymity is already the norm in virtual worlds
+- [What is the Metaverse and do I have to care?](https://www.theverge.com/22701104/metaverse-explained-fortnite-roblox-facebook-horizon) - Verge article that's one part definition, one part aspiration, one part hype
+- [The Economy of the Metaverse](https://medium.com/ggdigest/the-economy-of-the-metaverse-interview-with-epic-ceo-tim-sweeney-1822eed01ddf) - Interview with Epic CEO Tim Sweeney
+- [Mark Zuckerberg Metaverse Interview](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview) - Zuck on Facebook becoming 'a Metaverse Company'
+- [The Metaverse is Everything](https://outofscope.bureauofbrightideas.com/the-metaverse-is-everything/) - Article by Doug Thompson on why we're talking about the Metaverse now
+- [Building the Metaverse with janusVR](https://www.roadtovr.com/building-metaverse-janusvr/) - From 2015 but still relevant for building 3D internet experiences 
+- [The Seven Rules of the Metaverse](https://medium.com/meta-verses/the-seven-rules-of-the-metaverse-7d4e06fa864c) - A framework for the coming immersive reality by auradeluxe
+- [Building the Open Metaverse Podcast](https://www.youtube.com/channel/UCCMEsdydTLm-e7gI10v_quA) - Hosted by Patrick Cozzi (Cesium) and Marc Petit (Epic Games)
 
-- From Python to Numpy by Inria researcher Nicolas P. Rougier https://www.labri.fr/perso/nrougier/from-python-to-numpy/#id7
+## License
 
-- Vectorize your Conditional Loops in Python by Tirthajyokti Sarkar https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e
-
-- Combinatorial Optimization in Python by Google Developers https://developers.google.com/optimization/introduction/python
-
-- Uber Engineering Combats Fraud, Builds 'Mastermind', using Python's Abstract Syntax Tree by Yifu Dao and Isabel Geracioti https://eng.uber.com/mastermind/  
-
-- Improving Machine Learning Model Performance by Andrew Ng, https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b
-
-- The Hundred-Page Machine Learning Book by Andriy Burkov, https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X
-
-- Data Scientist Toolkit by Andriy Burkov, https://www.linkedin.com/pulse/data-scientists-toolkit-andriy-burkov?trk=d_public_post_promoted_post
-
-- Deep Learning Recommender, Survey and Perspectives, by Zhang, Yao, et al https://arxiv.org/pdf/1707.07435.pdf
-
-- Develop a NLP Model in Python & Deploy It with Flask, by Susan Li, https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776
-
-- Kubeflow at LinkedIn by Abin Shahab & Tengfei Mu, LinkedIn. Kubeflow is an open source Kubernetes-native platform for orchestrating and deploying machine learning workloads. https://www.youtube.com/watch?v=kExwqij11cg
-
-- Quantitative Economics using Python, Stachurski, John. https://lectures.quantecon.org/py/
-
-### Data Sets
-
-- /r/datasets - A subreddit for sharing datasets.https://www.reddit.com/r/datasets/
-
-- Institute for Reproducible Research. http://academictorrents.com/browse.php?cat=6 
-
-- Travel related Amadeus https://developers.amadeus.com/quick-start-guide/category?id=97&durl=335&parentId=NaN and other travel APIs via Altexsoft https://www.altexsoft.com/blog/engineering/travel-and-booking-apis-for-online-travel-and-tourism-service-providers/
-
-### Databases
-
-- Non-native vs Native Graph Technology https://neo4j.com/blog/native-vs-non-native-graph-technology/
-
-### Copyright 
-
-Gino Baltazar.
-Copyright (c) 2022, Gino Baltazar.
-All rights reserved.
-
-All other contributions.
-Copyright (c) 2022, the respective contributors.
-All rights reserved.
-
-Each contributor holds copyright over their respective contributions.
-The project versioning (Git) records all such contribution source information.
-
-### Credit
-
-- Dataquest team https://www.dataquest.io/ https://github.com/vikparuchuri/ https://github.com/dataquestio https://github.com/CurtisHumphrey
-
-- Catalit team https://www.catalit.com https://github.com/ghego https://github.com/Dataweekends
-MIT License
-
-### Disclaimer
-
-Copyright (c) 2022 + Disclaimer
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS, CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
