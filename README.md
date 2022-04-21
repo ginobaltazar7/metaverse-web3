@@ -37,12 +37,6 @@
 
 - Quantitative Economics using Python, Stachurski, John. https://lectures.quantecon.org/py/
 
-- Schema Unification with Snowflake, Chinmayee Lakkad. https://medium.com/hashmapinc/schema-unification-with-snowflake-de3cbf8444e
-
-- Using DBT to Execute ELT pipelines in Snowflake. https://medium.com/hashmapinc/using-dbt-to-execute-elt-pipelines-in-snowflake-dbe76d5beed5
-
-- Redox Connector to Azure for Healthcare, John Aven. https://www.prnewswire.com/news-releases/redox-launches-connector-to-microsoft-cloud-for-healthcare-through-microsoft-azure-and-appsource-marketplaces-301407702.html
-
 ### Data Sets
 
 - /r/datasets - A subreddit for sharing datasets.https://www.reddit.com/r/datasets/
