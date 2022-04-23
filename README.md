@@ -1,7 +1,7 @@
 # Metaverse and Web3
 Tracking projects and reads around blockchain, metaverse and web3. 
 
-My attempt at defining what the 'metaverse' is - The word “meta” in Greek means “transcending” while the word “verse” is abbreviated from universe, which represents all of space and time. When these two words are combined, a brand new word “metaverse” comes into the picture, where the traditional experiences of interaction, social systems and communication are transcended into a novel reimagined digital living space, enabled by VR, AR, crypto, blockchain, mobile and perhaps more technologies coming. 
+My attempt at defining what the 'metaverse' is - The word “meta” in Greek means “transcending” while the word “verse” is abbreviated from universe, which represents all of space and time. When these two words are combined, a brand new word “metaverse” comes into the picture, where the traditional experiences of interaction, social systems and communication are transcended into novel reimagined digitally augmented living spaces, enabled by VR, AR, crypto, blockchain, mobile and perhaps more technologies coming. 
 
 The term was first coined by Neal Stephenson, in his famous science fiction novel called Snow Crash where people utilize digital avatars to control and compete with each other to upgrade their status.
 
