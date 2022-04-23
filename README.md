@@ -3,6 +3,12 @@ Tracking projects and reads around blockchain, metaverse and web3.
 
 ### Useful Reads to Share
 
+## Books
+- [Blockchain Revolution by Tapscott](https://www.amazon.com/Blockchain-Revolution-Technology-Cryptocurrencies-Changing/dp/1101980141) I read this book when it was first released around 2017 and it has singlehandedly reframed my thinking around tech, decentralization and what's possible.
+
+- [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) - Upcoming book by Matthew Ball
+
+## Links
 - [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer) - 9 Part series from Matthew Ball 
 - [Matthew Ball – The Future of Media: Movies, the Metaverse, and More](https://www.joincolossus.com/episodes/69430337/ball-the-future-of-media-movies-the-metaverse-and-more?tab=shownotes) - Investor field guide to the Metaverse
 - [The Metaverse by Matthew Ball](https://www.matthewball.vc/all/themetaverse) - What It Is, Where to Find it, Who Will Build It, and Fortnite
