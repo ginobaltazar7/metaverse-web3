@@ -6,10 +6,10 @@ Tracking projects and reads around blockchain, metaverse and web3.
 ## Books
 - [Blockchain Revolution by Tapscott](https://www.amazon.com/Blockchain-Revolution-Technology-Cryptocurrencies-Changing/dp/1101980141) I read this book when it was first released around 2017 and it has singlehandedly reframed my thinking around tech, decentralization and what's possible.
 
-- [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) - Upcoming book by Matthew Ball
+- [The Metaverse: And How it Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033) - Forthcoming book by Matthew Ball who runs the Roundhill Ball Metaverse ETF index and ex-Head of Strategy at Amazon Studios.
 
 ## Videos
-- [Meta Reality Labs Chief Scientist on AR VR XR](https://research.facebook.com/blog/2022/4/reality-labs-chief-scientist-gives-talk-on-augmented-reality-at-the-2021-ieee-international-electron-devices-meeting/)
+- [Meta Reality Labs Chief Scientist on AR VR XR](https://research.facebook.com/blog/2022/4/reality-labs-chief-scientist-gives-talk-on-augmented-reality-at-the-2021-ieee-international-electron-devices-meeting/) Michael Abrash, Chief Scientist at Reality Labs, spoke at the 67th IEEE International Electron Devices Meeting (IEDM) in December 2021. In the talk, Abrash describes his vision of the AR and VR future and some of the semiconductor innovations that will be necessary to bring it to life.
 
 ## Links
 - [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer) - 9 Part series from Matthew Ball 
