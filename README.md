@@ -25,6 +25,7 @@ The term was first coined by Neal Stephenson, in his famous science fiction nove
 - [A Primer on the Metaverse](https://venturebeat.com/2017/04/09/a-primer-on-the-metaverse-the-next-iteration-of-the-internet/) - Venturebeat article on the next iteration of the Internet
 - [Parts List for the Metaverse](https://www.highfidelity.com/blog/parts-list-for-the-metaverse) - List by Philip Rosedale
 - [Blockchain for the Metaverse](https://arxiv.org/pdf/2203.09738.pdf) an extensive survey on the applications of blockchain for the metaverse
+- [web3 foundation grants program](https://github.com/w3f/Grants-Program) and its current web3 [projects](https://web3.foundation/projects/) and its [20-lecture MOOC](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)
 - [The Metaverse Explained](https://loupventures.com/the-metaverse-explained-part-1-an-inside-look/) - Loup Ventures take on the Metaverse in 4 parts
 - [Metaversing](https://metaversing.com/) - Exploring issues related to the Metaverse and design choices and challenges
 - [Makers Guide to the Metaverse](https://singularityhub.com/2015/08/26/a-makers-guide-to-the-metaverse/) - 2015 article on 5 principles to build into the Metaverse
