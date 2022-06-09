@@ -17,7 +17,10 @@ The term was first coined by Neal Stephenson, in his famous science fiction nove
 ### Videos
 - [Meta Reality Labs Chief Scientist on AR VR XR](https://research.facebook.com/blog/2022/4/reality-labs-chief-scientist-gives-talk-on-augmented-reality-at-the-2021-ieee-international-electron-devices-meeting/) - Michael Abrash, Chief Scientist at Reality Labs, spoke at the 67th IEEE International Electron Devices Meeting (IEDM) in December 2021. In the talk, Abrash describes his vision of the AR and VR future and some of the semiconductor innovations that will be necessary to bring it to life.
 
+- [Webcast - Unlocking the potential of Web3 and the Metaverse for financial services firms](https://lnkd.in/gv2DtZkY) - Participation and operating opportunities and models for FI's in Web3 and the Metaverse. Via KPMG.
+
 ### Links
+- [VR Usage & Consumer Attitudes via ARtillery Intelligence](https://artillry.co/artillry-intelligence/vr-usage-consumer-attitudes-wave-vi/) - how do consumers feel about VR? Who’s using it? How often? And what do they want to see next? Perhaps more importantly, what are non-users’ reasons for disinterest? And how can VR software and hardware developers optimize product strategies accordingly?
 - [Omigroup](https://github.com/omigroup/omigroup) - Sandbox for discussing interoperability among metaverses, [consensus strategy via git](https://hackmd.io/msSrKU3NQv2QO8_aU5IhHQ?view)
 - [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer) - 9 Part series from Matthew Ball 
 -[Crypto, web3, and the Metaverse](https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2022/03/Policy-brief-Crypto-web3-and-the-metaverse.pdf) Overview of crypto’s core concepts, along policy questions raised by its increasing adoption by citizens and organisations.
