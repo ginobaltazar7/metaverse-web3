@@ -45,6 +45,8 @@ The term was first coined by Neal Stephenson, in his famous science fiction nove
 - [Building the Metaverse with janusVR](https://www.roadtovr.com/building-metaverse-janusvr/) - From 2015 but still relevant for building 3D internet experiences 
 - [The Seven Rules of the Metaverse](https://medium.com/meta-verses/the-seven-rules-of-the-metaverse-7d4e06fa864c) - A framework for the coming immersive reality by auradeluxe
 - [Building the Open Metaverse Podcast](https://www.youtube.com/channel/UCCMEsdydTLm-e7gI10v_quA) - Hosted by Patrick Cozzi (Cesium) and Marc Petit (Epic Games)
+- [Into the Military Metaverse](https://breakingdefense.com/2022/04/into-the-military-metaverse-an-empty-buzzword-or-a-virtual-resource-for-the-pentagon/) - Synthetic, virtual military training use cases being envisioned by folks in military.
+- [US Military Is Building Its Own Metaverse](https://www.wired.com/story/military-metaverse/) - Metaverse-related ideas are already part of some of the latest military systems.
 
 ### web3 unicorns (companies valued at > $1bn as of Q1/2022) 
 - [Ripple](https://ripple.com/) - an international payments provider
