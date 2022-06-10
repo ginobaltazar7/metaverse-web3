@@ -55,6 +55,7 @@ The term was first coined by Neal Stephenson, in his famous science fiction nove
 - [Forte](https://www.forte.io/) - a gaming infrastructure platform
 - [OpenSea](https://opensea.io/) - a digital collectibles marketplace
 - [Sorare](https://sorare.com/) - an Ethereum-based fantasy football game in which virtual player cards can be bought and traded
+- [Recroom](https://recroom.com/) - gaming infra platform and its [$3.5B valuation](https://techcrunch.com/2021/12/20/rec-room-raises-145m-at-a-3-5b-valuation-for-its-user-generated-immersive-gaming-platform/)
 
 ## License
 
