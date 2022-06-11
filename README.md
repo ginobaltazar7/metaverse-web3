@@ -47,6 +47,7 @@ The term was first coined by Neal Stephenson, in his famous science fiction nove
 - [Building the Open Metaverse Podcast](https://www.youtube.com/channel/UCCMEsdydTLm-e7gI10v_quA) - Hosted by Patrick Cozzi (Cesium) and Marc Petit (Epic Games)
 - [Into the Military Metaverse](https://breakingdefense.com/2022/04/into-the-military-metaverse-an-empty-buzzword-or-a-virtual-resource-for-the-pentagon/) - Synthetic, virtual military training use cases being envisioned by folks in military.
 - [US Military Is Building Its Own Metaverse](https://www.wired.com/story/military-metaverse/) - Metaverse-related ideas are already part of some of the latest military systems.
+- [Horizon metaverse platform](https://digiday.com/marketing/we-stand-on-the-shoulders-of-giants-how-metas-vivek-sharma-plans-to-transform-horizon-into-a-cohesive-metaverse-platform/) - promise of the metaverse as synchronous, real-time immersion, [monetized](https://www.protocol.com/bulletins/meta-horizon-monetization-test)
 
 ### web3 unicorns (companies valued at > $1bn as of Q1/2022) 
 - [Ripple](https://ripple.com/) - an international payments provider
