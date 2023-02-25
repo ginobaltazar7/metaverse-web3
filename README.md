@@ -49,6 +49,8 @@ The term was first coined by Neal Stephenson, in his famous science fiction nove
 - [US Military Is Building Its Own Metaverse](https://www.wired.com/story/military-metaverse/) - Metaverse-related ideas are already part of some of the latest military systems.
 - [Horizon metaverse platform](https://digiday.com/marketing/we-stand-on-the-shoulders-of-giants-how-metas-vivek-sharma-plans-to-transform-horizon-into-a-cohesive-metaverse-platform/) - promise of the metaverse as synchronous, real-time immersion, [monetized](https://www.protocol.com/bulletins/meta-horizon-monetization-test)
 
+- [Awesome list maintained by m3org](https://github.com/M3-org/awesome-metaverse)
+
 ### web3 unicorns (companies valued at > $1bn as of Q1/2022) 
 - [Ripple](https://ripple.com/) - an international payments provider
 - [Aave](https://aave.com/) - a protocol for borrowing and lending crypto assets that runs on Ethereum
