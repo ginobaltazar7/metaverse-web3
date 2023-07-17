@@ -48,6 +48,7 @@ The term was first coined by Neal Stephenson, in his famous science fiction nove
 - [Into the Military Metaverse](https://breakingdefense.com/2022/04/into-the-military-metaverse-an-empty-buzzword-or-a-virtual-resource-for-the-pentagon/) - Synthetic, virtual military training use cases being envisioned by folks in military.
 - [US Military Is Building Its Own Metaverse](https://www.wired.com/story/military-metaverse/) - Metaverse-related ideas are already part of some of the latest military systems.
 - [Horizon metaverse platform](https://digiday.com/marketing/we-stand-on-the-shoulders-of-giants-how-metas-vivek-sharma-plans-to-transform-horizon-into-a-cohesive-metaverse-platform/) - promise of [Horizon Worlds](https://www.meta.com/horizon-worlds/) as synchronous, real-time immersion, [monetized](https://www.protocol.com/bulletins/meta-horizon-monetization-test) 
+- [Apple Vision Pro Dev](https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/) Developers who have been building 3D apps and games with [Unity’s](https://unity.com/how-to/beginner-video-game-resources) robust authoring tools can port their Unity apps to Apple Vision Pro.
 
 - [Awesome list maintained by m3org](https://github.com/M3-org/awesome-metaverse)
 
